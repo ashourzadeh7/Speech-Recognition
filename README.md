@@ -9,11 +9,11 @@ Objective: Identifying and classifying Persian numbers from 0 to 9
 Each of these models is a hidden left-to-right Markov model with five states. Finally, for each test input signal, the probability of correctness is calculated for each
 model using the forward algorithm, and the highest value represents the result.
 
-
+![Screenshot (517)](https://user-images.githubusercontent.com/126339266/221876440-7acebc75-b555-411f-9de2-06be25c5f4f7.png)
 
 Input dataset: 100 recorded audio files
 Training data: 80 percent
 Test data: 20 percent
 The final accuracy of the model for the test data: 90%
 
-![Screenshot (517)](https://user-images.githubusercontent.com/126339266/221876440-7acebc75-b555-411f-9de2-06be25c5f4f7.png)
+
