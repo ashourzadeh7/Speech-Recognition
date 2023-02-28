@@ -16,7 +16,7 @@ For example, in the pre-processing step, the noise in the audio signals is remov
 ![pre_processing](https://user-images.githubusercontent.com/126339266/221878325-c221f280-6ca2-48d2-aa0c-1695c7dfef21.png)
 
 
-Input dataset: 100 recorded audio files 
+Input dataset: 100 recorded audio files.
 Training data: 80% 
 Test data: 20% 
 The final accuracy of the model for the test data: 90%
