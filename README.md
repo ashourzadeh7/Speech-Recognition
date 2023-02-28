@@ -13,7 +13,7 @@ The speech recognition system consists of three components:
 Pre-processing - feature vector extraction - pattern recognition and classification
 For example, in the pre-processing step, the noise in the audio signals is removed.
 
-![pre_processing](https://user-images.githubusercontent.com/126339266/221878325-c221f280-6ca2-48d2-aa0c-1695c7dfef21.png)
+![pre_processing](https://user-images.githubusercontent.com/126339266/221880124-1f77a77c-adef-4323-9958-80b0e0cefd33.png)
 
 
 Input dataset: 100 recorded audio files.
