@@ -15,4 +15,5 @@ Input dataset: 100 recorded audio files
 Training data: 80 percent
 Test data: 20 percent
 The final accuracy of the model for the test data: 90%
-![untitled](https://user-images.githubusercontent.com/126339266/221874223-cc0ad781-d877-4d2e-8a99-57c6a99f3187.jpg)
+
+![Screenshot (517)](https://user-images.githubusercontent.com/126339266/221876440-7acebc75-b555-411f-9de2-06be25c5f4f7.png)
